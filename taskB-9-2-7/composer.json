@@ -1,6 +1,5 @@
 {
     "require": {
-        "swiftmailer/swiftmailer": "^6.3",
         "symfony/mailer": "^6.2"
     }
 }
