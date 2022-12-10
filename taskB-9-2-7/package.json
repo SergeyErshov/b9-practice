@@ -1,0 +1,19 @@
+{
+  "name": "taskb9-2-7-esm",
+  "version": "1.0.0",
+  "description": "this is the test package for SF task 9.2.7",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SergeyErshov/b9-practice.git"
+  },
+  "author": "Sergey Ershov (ESM)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergeyErshov/b9-practice/issues"
+  },
+  "homepage": "https://github.com/SergeyErshov/b9-practice#readme"
+}
