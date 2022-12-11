@@ -1,0 +1,19 @@
+{
+  "name": "task_b9-5-1",
+  "version": "1.0.0",
+  "description": "for task b9.5.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergeyErshov/b9-practice.git"
+  },
+  "author": "Sergey Ershov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergeyErshov/b9-practice/issues"
+  },
+  "homepage": "https://github.com/SergeyErshov/b9-practice#readme"
+}
